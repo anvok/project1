@@ -1,0 +1,48 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #424551;
+    font-size: 14px;
+    line-height: 1.2;
+    font-weight: 400;
+    max-width: 1920px;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 10px;
+    max-width: 1220px;
+}
+
+.none {
+    display: none !important;
+}
+
+.nav {
+    padding-top: 20px;
+}
+
+.nav-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+.pure__menu__list {
+    display: flex;
+    align-items: center;
+}
+
+.pure__menu__item {
+    color: #424551;
+    letter-spacing: normal;
+}
+
+.contacts {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
